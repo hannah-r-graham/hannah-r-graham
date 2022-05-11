@@ -6,6 +6,7 @@
 - Projects so far: 
 -   kaggle housing project
 -   Kaggle titanic project
+-   kaggle loans project
 -   YOY participation/comparison analysis
 -   analysis of domains/expertise and registration behavior
 
