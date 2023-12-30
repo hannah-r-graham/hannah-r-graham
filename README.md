@@ -1,14 +1,8 @@
-- 👋 Hi, I’m @hannah-r-graham, a technical program manager in FAANG. 
-- 👀 I’m interested in data analytics, NLP, ML, AI (supervised so far!), and accessibility.
-- 🌱 I’m currently learning python, pandas, and supervised, stepping into unsupervised, ML
-- 💞️ I’m looking to collaborate on code syntax, shortcuts and neat tricks/better ways to do things. 
-- 📫 How to reach me through linkedin. 
-- Projects so far: 
--   kaggle housing project
--   Kaggle titanic project
--   kaggle loans project
--   YOY participation/comparison analysis
--   analysis of domains/expertise and registration behavior
+- 👋 Hi, I’m @hannah-r-graham, a Data and AI technical program manager in FAANG. 
+- 👀 Current Masters in Data Science and AI student at Northwestern (3.7 GPA). Code for each class is in the repos below.
+- 🌱 Exploring all things AI, Generative AI, data, and product implementation.
+- 📫 Feel free to connect through LinkedIn: https://www.linkedin.com/in/hannah-r-graham/ 
+
 
 <!---
 hannah-r-graham/hannah-r-graham is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
