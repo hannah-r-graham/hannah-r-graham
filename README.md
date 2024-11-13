@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hannah-r-graham, a Data and AI technical program manager in FAANG. 
 - 👀 Current Masters in Data Science and AI student at Northwestern (3.7 GPA). Code for each class is in the repos below.
-- 🌱 Exploring all things AI, Generative AI, data, and full-stack(React, Flask, Node).
+- 🌱 Exploring all things AI, Generative AI, data, and full-stack.
 - 📫 Feel free to connect through LinkedIn: https://www.linkedin.com/in/hannah-r-graham/ 
 
 
